@@ -1,4 +1,4 @@
-Perfect 👍 Let’s make your **README.md** sound natural, like it was written by you, not AI. Here’s a **clean, human-like version**:
+
 
 ---
 
@@ -69,6 +69,4 @@ I created this project to strengthen my understanding of **CPU scheduling algori
 
 ---
 
-👉 This is simple, professional, and human-like.
 
-Do you also want me to write the **resume version (2–3 lines)** of this project for you?
